@@ -182,6 +182,9 @@ Voici la même figure, mais sous forme de diagramme de séquence avec l'acteur. 
 
 ### Contrats d'opération et Réalisations de cas d'utilisation (RDCU)
 
+### Diagramme de classes logicielles (DCL)
+![Diagramme de classe logicielles](https://cdn-0.plantuml.com/plantuml/png/rLJ1RXen4Btp5LPEH414glIoHIXHIQf6BMsQ3wZCUefSUMqojbCGujyxsBkZPL6fsajJ3YlyPkQzsNdhkVP1OeYLwPL6UYzc8BOzGR_HrsTf868XRAmMW0aSB92I0FldXNXsMcMmaxZhoOKFACiWCgU2RpAQ860Tm2elRX4TrZA3RPEy4wLJq6B9nUyjqMlrMQAi802cOgQwgOiFA3FFrNZC9FSkGaH-C-kgGb2Xjii6MNoGjWJqhD_1tycbXSFeu8Y6fAIs6kUkwhU2vmTP0zDHOf1bZaFTaIyfhui5T__uQRx7jgAb_aPq16k0nHZUyRpcBjovQDKV3FkAYsyCWbIRsxNsmV-TNH1dC0FFXdrF_b6h7-LgabzhM9iwhLFKPI5cq1nUyM6We9A8W4HwmfIz0fw81y1Asz-n8BJLs9tEpMcRos-MQTeZ-E8YgV8CC1qBaU4QB9qDw0p4lM31WylS9uDTkkwe49ue24yHV9Yas-TdkWpQMOcReP2sUJn4mCrZwlw2yZoe1p-aojAXOgyeSpeT2WI_9_KhPprC2FnLeeLrACISddVH9bKU9hlrabiaQm3HuLkduFLut4-78dVpBzjkjyZVz8kt6-6_-J9f_GU--BmHLwjcsS5wHLAUa4BK_o_eO7GfzrpvswcqKWP-I0IcIdYwixv5pujoD9gAiykpUYSUuxGCUQCmo0lX6goAbVa9)
+
 #### Opération: `démarrerJeu(nom:String)`
 
 **Postconditions**
