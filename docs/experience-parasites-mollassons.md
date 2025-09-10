@@ -12,6 +12,7 @@ Les Systèmes d'intelligence artificielle générative (SIAG) font des réponses
 Plus tard dans le semestre, **si votre équipe porte un manque de performance à l'attention de la personne enseignante, votre réponse et celles de toute l'équipe seront lues avec un grand intérêt pour voir si vous avez réellement lu l'essai et intériorisé ce qu'il a communiqué**.
 
 Mettez votre réponse (environ 300 mots) ci-dessous:
+
 J'ai été chanceux au cégep et à l'université jusqu'à maintenant, donc ce texte portera sur ce que je ferais si j'ai le malheur de me retrouver en équipe avec un parasite (ou un mollasson).
 
 D'abord, dès la première semaine de lab, je proposerais déjà de se séparer les tâches équitablement (exemple: un tel équipier fait l'analyse de X, l'autre le début de conception de Y, etc.) Au début du lab, je laisserais une période de grâce pour les coéquipiers de s'habituer au rythme et l'environnement de travail du cours LOG210 (à moi-même et aux autres), donc je serais pas trop indulgent si la cadence du travail est moins bonne qu'espéré, ou que les membres soient "occupé".
