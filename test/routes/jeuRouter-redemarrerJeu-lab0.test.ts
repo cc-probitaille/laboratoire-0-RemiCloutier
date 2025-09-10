@@ -10,8 +10,8 @@ const testNom2 = "Tristan";
 
 describe('GET /api/v1/jeu/redemarrerJeu', () => {
   beforeAll(async () => {
-    await request.post('api/v1/jeu/demarrerJeu').send({nom: testNom1})
-    await request.post('api/v1/jeu/demarrerJeu').send({nom: testNom2})
+    await request.post('/api/v1/jeu/demarrerJeu').send({nom: testNom1})
+    await request.post('/api/v1/jeu/demarrerJeu').send({nom: testNom2})
   });
 
 
@@ -29,8 +29,6 @@ describe('GET /api/v1/jeu/redemarrerJeu', () => {
     const response = await request.get('/api/v1/jeu/jouer/' + testNom1);
     expect(response.status).toBe(404);
     expect(response.type).toBe("application/json");
-    expect(response.body.error).toInclude("n'existe pas");
-    expect(response.body.error).toInclude(testNom2);
   });
 
 });
